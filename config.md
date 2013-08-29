@@ -16,6 +16,8 @@
 
 ## 例子
 
+on My God
+
 当没有传入参数时，获取全部配置数据。
 
     //grunt.config.init({ name: '{#domain#}',  project: '{#domain#}' });
